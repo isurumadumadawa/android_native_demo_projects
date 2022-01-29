@@ -1,4 +1,4 @@
-package com.example.demologin;
+package com.example.Demologin;
 
 import androidx.appcompat.app.AppCompatActivity;
 

@@ -1,4 +1,4 @@
-package com.example.Demologin;
+package com.example.tictactoe;
 
 import org.junit.Test;
 

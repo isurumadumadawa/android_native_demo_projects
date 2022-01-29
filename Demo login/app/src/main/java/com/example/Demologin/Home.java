@@ -1,9 +1,7 @@
-package com.example.demologin;
+package com.example.Demologin;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.EditText;
 import android.widget.TextView;
 
 
