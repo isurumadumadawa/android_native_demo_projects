@@ -6,7 +6,7 @@
         android:title="@string/home"
         app:showAsAction="ifRoom" />
     <item android:id="@+id/notifications"
-        android:icon="@drawable/notifications"
+        android:icon="@drawable/search"
         android:title="@string/notifications"
         app:showAsAction="ifRoom"/>
     <item android:id="@+id/messages"
